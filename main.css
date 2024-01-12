@@ -1,0 +1,29 @@
+.grocery {
+  color: #1212e9;
+  text-align: center;
+}
+
+.listA {
+  background-color: bisque;
+  border: 1px solid black;
+  width: 63%;
+  margin-right: 5%;
+  padding: 4px;
+}
+
+.can {
+  background-color: #c5c5c5;
+  display: inline-block;
+  width: 30%;
+  height: 150px;
+  margin-right: 2%;
+}
+
+.noBack {
+  background-color: white;
+}
+
+.noBack img {
+  max-height: 100%;
+  display: block;
+}
